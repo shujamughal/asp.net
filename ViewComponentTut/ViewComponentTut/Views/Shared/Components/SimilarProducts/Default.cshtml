@@ -1,0 +1,12 @@
+﻿@model List<Product>
+
+<section>
+    <h1>
+        Similar Products
+    </h1>
+    @foreach (var product in Model)
+    {
+        <h4>@product.Name</h4>
+        <p>@product.Category</p>
+    }
+</section>

@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>
+    Details of the Product
+</h1>
+<h4>Product 1</h4>
+<p>Men</p>
+
+@await Component.InvokeAsync("SimilarProducts",new {category="Men", productId=1})
+<!--
+<vc:similar-products category="Men" product-id="1"> </vc:similar-products>
+-->

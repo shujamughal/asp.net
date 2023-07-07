@@ -1,0 +1,62 @@
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\bin\Debug\net7.0\appsettings.Development.json
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\bin\Debug\net7.0\appsettings.json
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\bin\Debug\net7.0\ViewComponentTut.staticwebassets.runtime.json
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\bin\Debug\net7.0\ViewComponentTut.exe
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\bin\Debug\net7.0\ViewComponentTut.deps.json
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\bin\Debug\net7.0\ViewComponentTut.runtimeconfig.json
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\bin\Debug\net7.0\ViewComponentTut.dll
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\bin\Debug\net7.0\ViewComponentTut.pdb
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\ViewComponentTut.csproj.AssemblyReference.cache
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\ViewComponentTut.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\ViewComponentTut.AssemblyInfoInputs.cache
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\ViewComponentTut.AssemblyInfo.cs
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\ViewComponentTut.csproj.CoreCompileInputs.cache
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\ViewComponentTut.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\ViewComponentTut.RazorAssemblyInfo.cache
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\ViewComponentTut.RazorAssemblyInfo.cs
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\staticwebassets\msbuild.ViewComponentTut.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\staticwebassets\msbuild.build.ViewComponentTut.props
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ViewComponentTut.props
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ViewComponentTut.props
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\staticwebassets.build.json
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\staticwebassets.development.json
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\scopedcss\bundle\ViewComponentTut.styles.css
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\scopedcss\projectbundle\ViewComponentTut.bundle.scp.css
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\ViewComponentTut.dll
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\refint\ViewComponentTut.dll
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\ViewComponentTut.pdb
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\ViewComponentTut.genruntimeconfig.cache
+D:\Projects\EAD\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\ref\ViewComponentTut.dll
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\bin\Debug\net7.0\appsettings.json
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\bin\Debug\net7.0\ViewComponentTut.staticwebassets.runtime.json
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\bin\Debug\net7.0\ViewComponentTut.exe
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\bin\Debug\net7.0\ViewComponentTut.deps.json
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\bin\Debug\net7.0\ViewComponentTut.runtimeconfig.json
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\bin\Debug\net7.0\ViewComponentTut.dll
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\bin\Debug\net7.0\ViewComponentTut.pdb
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\ViewComponentTut.csproj.AssemblyReference.cache
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\ViewComponentTut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\ViewComponentTut.AssemblyInfoInputs.cache
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\ViewComponentTut.AssemblyInfo.cs
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\ViewComponentTut.csproj.CoreCompileInputs.cache
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\ViewComponentTut.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\ViewComponentTut.RazorAssemblyInfo.cache
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\ViewComponentTut.RazorAssemblyInfo.cs
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\staticwebassets\msbuild.ViewComponentTut.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\staticwebassets\msbuild.build.ViewComponentTut.props
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ViewComponentTut.props
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ViewComponentTut.props
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\scopedcss\bundle\ViewComponentTut.styles.css
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\scopedcss\projectbundle\ViewComponentTut.bundle.scp.css
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\ViewComponentTut.dll
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\refint\ViewComponentTut.dll
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\ViewComponentTut.pdb
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\ViewComponentTut.genruntimeconfig.cache
+C:\Users\shuja\Downloads\ViewComponentTut (1)\ViewComponentTut\ViewComponentTut\obj\Debug\net7.0\ref\ViewComponentTut.dll
