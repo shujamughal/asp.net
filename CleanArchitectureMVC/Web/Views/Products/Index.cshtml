@@ -1,0 +1,10 @@
+﻿<!-- Views/Products/Index.cshtml -->
+@model IEnumerable<Core.Entities.Product>
+
+<h2>Products</h2>
+<ul>
+    @foreach (var product in Model)
+    {
+        <li>@product.Name - @product.Price</li>
+    }
+</ul>
