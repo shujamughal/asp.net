@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\MVCdapperWithGenericRepoAndDI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93FFC928-2551-4693-8211-EC434A3B8D1D}|MVCdapperWithGenericRepoAndDI.csproj|c:\\shuja\\code examples\\asp.net\\asp.net\\mvcdapperwithgenericrepoanddi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FFC928-2551-4693-8211-EC434A3B8D1D}|MVCdapperWithGenericRepoAndDI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FFC928-2551-4693-8211-EC434A3B8D1D}|MVCdapperWithGenericRepoAndDI.csproj|c:\\shuja\\code examples\\asp.net\\asp.net\\mvcdapperwithgenericrepoanddi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FFC928-2551-4693-8211-EC434A3B8D1D}|MVCdapperWithGenericRepoAndDI.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FFC928-2551-4693-8211-EC434A3B8D1D}|MVCdapperWithGenericRepoAndDI.csproj|c:\\shuja\\code examples\\asp.net\\asp.net\\mvcdapperwithgenericrepoanddi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FFC928-2551-4693-8211-EC434A3B8D1D}|MVCdapperWithGenericRepoAndDI.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FFC928-2551-4693-8211-EC434A3B8D1D}|MVCdapperWithGenericRepoAndDI.csproj|c:\\shuja\\code examples\\asp.net\\asp.net\\mvcdapperwithgenericrepoanddi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FFC928-2551-4693-8211-EC434A3B8D1D}|MVCdapperWithGenericRepoAndDI.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FFC928-2551-4693-8211-EC434A3B8D1D}|MVCdapperWithGenericRepoAndDI.csproj|c:\\shuja\\code examples\\asp.net\\asp.net\\mvcdapperwithgenericrepoanddi\\models\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FFC928-2551-4693-8211-EC434A3B8D1D}|MVCdapperWithGenericRepoAndDI.csproj|solutionrelative:models\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FFC928-2551-4693-8211-EC434A3B8D1D}|MVCdapperWithGenericRepoAndDI.csproj|c:\\shuja\\code examples\\asp.net\\asp.net\\mvcdapperwithgenericrepoanddi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93FFC928-2551-4693-8211-EC434A3B8D1D}|MVCdapperWithGenericRepoAndDI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FFC928-2551-4693-8211-EC434A3B8D1D}|MVCdapperWithGenericRepoAndDI.csproj|c:\\shuja\\code examples\\asp.net\\asp.net\\mvcdapperwithgenericrepoanddi\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FFC928-2551-4693-8211-EC434A3B8D1D}|MVCdapperWithGenericRepoAndDI.csproj|solutionrelative:models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 34,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\MVCdapperWithGenericRepoAndDI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\MVCdapperWithGenericRepoAndDI\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T10:45:23.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\MVCdapperWithGenericRepoAndDI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\MVCdapperWithGenericRepoAndDI\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T10:45:04.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\MVCdapperWithGenericRepoAndDI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\MVCdapperWithGenericRepoAndDI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T10:44:33.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\MVCdapperWithGenericRepoAndDI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\MVCdapperWithGenericRepoAndDI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-30T10:43:49.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\MVCdapperWithGenericRepoAndDI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\MVCdapperWithGenericRepoAndDI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T10:43:30.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\MVCdapperWithGenericRepoAndDI\\Models\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Models\\GenericRepository.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\MVCdapperWithGenericRepoAndDI\\Models\\GenericRepository.cs",
+              "RelativeToolTip": "Models\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T10:38:31.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\MVCdapperWithGenericRepoAndDI\\Models\\IRepository.cs",
+              "RelativeDocumentMoniker": "Models\\IRepository.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\MVCdapperWithGenericRepoAndDI\\Models\\IRepository.cs",
+              "RelativeToolTip": "Models\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T10:37:59.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 366,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 63,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
