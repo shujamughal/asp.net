@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CleanArchitectureDB2/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A64116-61CD-4CF0-A3CD-CCB47B6482FD}|Infrastructure\\Infrastructure.csproj|c:\\shuja\\code examples\\asp.net\\asp.net\\cleanarchitecturelectures\\cleanarchitecturelecture2\\cleanarchitecturelecture2\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09A64116-61CD-4CF0-A3CD-CCB47B6482FD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A64116-61CD-4CF0-A3CD-CCB47B6482FD}|Infrastructure\\Infrastructure.csproj|c:\\shuja\\code examples\\asp.net\\asp.net\\cleanarchitecturelectures\\cleanarchitecturelecture2\\cleanarchitecturelecture2\\infrastructure\\migrations\\20241124141607_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A64116-61CD-4CF0-A3CD-CCB47B6482FD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20241124141607_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8F96AC-7F95-467A-9D99-C45CF1DBA268}|Core\\Core.csproj|c:\\shuja\\code examples\\asp.net\\asp.net\\cleanarchitecturelectures\\cleanarchitecturelecture2\\cleanarchitecturelecture2\\core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8F96AC-7F95-467A-9D99-C45CF1DBA268}|Core\\Core.csproj|solutionrelative:core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A64116-61CD-4CF0-A3CD-CCB47B6482FD}|Infrastructure\\Infrastructure.csproj|c:\\shuja\\code examples\\asp.net\\asp.net\\cleanarchitecturelectures\\cleanarchitecturelecture2\\cleanarchitecturelecture2\\infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A64116-61CD-4CF0-A3CD-CCB47B6482FD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E795AE-E305-4699-8B29-E2794A6CC256}|WebUI\\WebUI.csproj|c:\\shuja\\code examples\\asp.net\\asp.net\\cleanarchitecturelectures\\cleanarchitecturelecture2\\cleanarchitecturelecture2\\webui\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05E795AE-E305-4699-8B29-E2794A6CC256}|WebUI\\WebUI.csproj|solutionrelative:webui\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E795AE-E305-4699-8B29-E2794A6CC256}|WebUI\\WebUI.csproj|c:\\shuja\\code examples\\asp.net\\asp.net\\cleanarchitecturelectures\\cleanarchitecturelecture2\\cleanarchitecturelecture2\\webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05E795AE-E305-4699-8B29-E2794A6CC256}|WebUI\\WebUI.csproj|solutionrelative:webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E795AE-E305-4699-8B29-E2794A6CC256}|WebUI\\WebUI.csproj|c:\\shuja\\code examples\\asp.net\\asp.net\\cleanarchitecturelectures\\cleanarchitecturelecture2\\cleanarchitecturelecture2\\webui\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05E795AE-E305-4699-8B29-E2794A6CC256}|WebUI\\WebUI.csproj|solutionrelative:webui\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E795AE-E305-4699-8B29-E2794A6CC256}|WebUI\\WebUI.csproj|c:\\shuja\\code examples\\asp.net\\asp.net\\cleanarchitecturelectures\\cleanarchitecturelecture2\\cleanarchitecturelecture2\\webui\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05E795AE-E305-4699-8B29-E2794A6CC256}|WebUI\\WebUI.csproj|solutionrelative:webui\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E795AE-E305-4699-8B29-E2794A6CC256}|WebUI\\WebUI.csproj|c:\\shuja\\code examples\\asp.net\\asp.net\\cleanarchitecturelectures\\cleanarchitecturelecture2\\cleanarchitecturelecture2\\webui\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E795AE-E305-4699-8B29-E2794A6CC256}|WebUI\\WebUI.csproj|solutionrelative:webui\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E795AE-E305-4699-8B29-E2794A6CC256}|WebUI\\WebUI.csproj|c:\\shuja\\code examples\\asp.net\\asp.net\\cleanarchitecturelectures\\cleanarchitecturelecture2\\cleanarchitecturelecture2\\webui\\webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05E795AE-E305-4699-8B29-E2794A6CC256}|WebUI\\WebUI.csproj|solutionrelative:webui\\webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E795AE-E305-4699-8B29-E2794A6CC256}|WebUI\\WebUI.csproj|c:\\shuja\\code examples\\asp.net\\asp.net\\cleanarchitecturelectures\\cleanarchitecturelecture2\\cleanarchitecturelecture2\\webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E795AE-E305-4699-8B29-E2794A6CC256}|WebUI\\WebUI.csproj|solutionrelative:webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A64116-61CD-4CF0-A3CD-CCB47B6482FD}|Infrastructure\\Infrastructure.csproj|c:\\shuja\\code examples\\asp.net\\asp.net\\cleanarchitecturelectures\\cleanarchitecturelecture2\\cleanarchitecturelecture2\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A64116-61CD-4CF0-A3CD-CCB47B6482FD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711C946E-BC6E-41F8-9DA8-B1E209710A0B}|Application\\Application.csproj|c:\\shuja\\code examples\\asp.net\\asp.net\\cleanarchitecturelectures\\cleanarchitecturelecture2\\cleanarchitecturelecture2\\application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711C946E-BC6E-41F8-9DA8-B1E209710A0B}|Application\\Application.csproj|solutionrelative:application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8F96AC-7F95-467A-9D99-C45CF1DBA268}|Core\\Core.csproj|c:\\shuja\\code examples\\asp.net\\asp.net\\cleanarchitecturelectures\\cleanarchitecturelecture2\\cleanarchitecturelecture2\\core\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8F96AC-7F95-467A-9D99-C45CF1DBA268}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Products [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CleanArchitectureDB2/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "dbo.Products [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-24T14:25:21.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241124141607_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\Infrastructure\\Migrations\\20241124141607_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241124141607_InitialCreate.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\Infrastructure\\Migrations\\20241124141607_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241124141607_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:21:15.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T14:06:39.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\WebUI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebUI\\appsettings.Development.json",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\WebUI\\appsettings.Development.json",
+              "RelativeToolTip": "WebUI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T13:38:57.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\WebUI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebUI\\appsettings.json",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\WebUI\\appsettings.json",
+              "RelativeToolTip": "WebUI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T13:38:14.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\WebUI\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebUI\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\WebUI\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "WebUI\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T13:37:45.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\WebUI\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebUI\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\WebUI\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "WebUI\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T13:36:19.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\WebUI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebUI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\WebUI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebUI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:34:26.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\Core\\Entities\\Product.cs",
+              "RelativeToolTip": "Core\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:01:19.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WebUI",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\WebUI\\WebUI.csproj",
+              "RelativeDocumentMoniker": "WebUI\\WebUI.csproj",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\WebUI\\WebUI.csproj",
+              "RelativeToolTip": "WebUI\\WebUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T13:25:37.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "WebUI\\Program.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\WebUI\\Program.cs",
+              "RelativeToolTip": "WebUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:21:40.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAMwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:09:13.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:06:34.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:04:00.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\Core\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET\\asp.net\\CleanArchitectureLectures\\CleanArchitectureLecture2\\CleanArchitectureLecture2\\Core\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:02:13.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 101,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

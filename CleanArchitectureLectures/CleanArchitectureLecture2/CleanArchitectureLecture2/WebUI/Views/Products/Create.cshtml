@@ -1,0 +1,15 @@
+﻿@model Core.Entities.Product
+
+<h1>Add Product</h1>
+
+<form asp-action="Create" method="post">
+    <label for="Name">Name:</label>
+    <input asp-for="Name" />
+    <span asp-validation-for="Name"></span>
+
+    <label for="Price">Price:</label>
+    <input asp-for="Price" type="number" />
+    <span asp-validation-for="Price"></span>
+
+    <button type="submit">Save</button>
+</form>
